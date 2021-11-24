@@ -1,9 +1,9 @@
 ##
 Olá, meu nome é Brenno Eduardo, sejá bem-vindo ao meu GitHub! 👻
 
-- 🔭 Atualmente estou trabalhando como Assistente Financeiro.
-- 🌱 Atualmente estou aprendendo Python, HTML e CSS.
-- 🤔 Procuro ajuda com ideia de projetos.
+- 🔭 Atualmente estou trabalhando como Assistente Financeiro e graduando em Análise e Desenvolvimento de Sistemas.
+- 🌱 Atualmente estou estudando e desenvolvendo para me tornar um Desenvolvedor Front-end
+- 🤔 Procuro por ideias de projetos para iniciantes e uma oportunidade no mercado, sou bastente curioso e com vontade aprender.
 - 💬 Pergunte-me sobre qualquer coisa, estou apto a receber e aprender junto com você.
 - 📫 Como entrar em contato comigo: e-mail: brennobesc@gmail.com
 -->
