@@ -1,9 +1,9 @@
 ##
-Olá, meu nome é Brenno Eduardo, sejá bem-vindo ao meu GitHub! 👻
+Olá, meu nome é Brenno Eduardo!
 
-- 🔭 Atualmente estou trabalhando como Assistente Financeiro e me formando em Análise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente estou estudando e desenvolvendo para me tornar um Desenvolvedor Front-end
-- 🤔 Procuro por ideias de projetos para iniciantes e uma oportunidade no mercado, sou bastante curioso e com vontade aprender.
+- 🔭 Estou cursando Análise e Desenvolvimento de Sistemas.
+- 🌱 Atualmente estou estudando e desenvolvendo na área de Front-end
+- 🤔 Procuro por ideias de projetos e uma oportunidade no mercado.
 - 💬 Pergunte-me sobre qualquer coisa, estou apto a receber e aprender junto com você.
 - 📫 Como entrar em contato comigo: e-mail: brennobesc@gmail.com
 -->
@@ -14,9 +14,9 @@ Olá, meu nome é Brenno Eduardo, sejá bem-vindo ao meu GitHub! 👻
 </div>
 <div style='display> inline_block'><br>
   <img align="center" alt="Brenno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Brenno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Brenno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Brenno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
   
 ##
