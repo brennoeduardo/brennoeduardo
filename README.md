@@ -5,7 +5,7 @@ Olá, meu nome é Brenno Eduardo!
 - 🌱 Atualmente estou estudando e desenvolvendo na área de Front-end
 - 🤔 Procuro por ideias de projetos e uma oportunidade no mercado.
 - 💬 Pergunte-me sobre qualquer coisa, estou apto a receber e aprender junto com você.
-- 📫 Como entrar em contato comigo: e-mail: brennobesc@gmail.com
+- 📫 Entre em contato comigo via e-mail: brennobesc@gmail.com
 -->
 ##
 <div>
