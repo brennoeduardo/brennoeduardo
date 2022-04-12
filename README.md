@@ -4,7 +4,7 @@
 
 - 🔭 Estou cursando Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente estou estudando na área de Desenvolvimento Front-end.
-  <img src="C:\Users\Usuario\OneDrive\Documentos\Brenno\1 - Programação\brennoeduardo\WhatsApp Image 2022-04-12 at 12.57.39.jpeg">
+  ![WhatsApp Image 2022-04-12 at 12 57 39](https://user-images.githubusercontent.com/82530714/163005285-e4aad71b-63a4-43bf-9e0d-530458db83c5.jpeg)
 ##
 <div>
   <a href="https://github.com/brennoeduardo">
