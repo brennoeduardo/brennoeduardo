@@ -1,12 +1,9 @@
 ##
-Olá, meu nome é Brenno Eduardo!
+<h1>Olá, meu nome é Brenno Eduardo!<h1>
+
 
 - 🔭 Estou cursando Análise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente estou estudando e desenvolvendo na área de Front-end
-- 🤔 Procuro por ideias de projetos e uma oportunidade no mercado.
-- 💬 Pergunte-me sobre qualquer coisa, estou apto a receber e aprender junto com você.
-- 📫 Entre em contato comigo via e-mail: brennobesc@gmail.com
--->
+- 🌱 Atualmente estou estudando na área de Front-end
 ##
 <div>
   <a href="https://github.com/brennoeduardo">
