@@ -1,6 +1,5 @@
 ##
-<h1>Olá, meu nome é Brenno Eduardo!<h1>
-
+<h1>Olá, meu nome é Brenno Eduardo!</h1>
 
 - 🔭 Estou cursando Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente estou estudando na área de Front-end
