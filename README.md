@@ -3,7 +3,7 @@
 
 
 - 🔭 Estou cursando Análise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente estou estudando na área de Desenvolvimento Front-end.
+- 🌱 Atualmente estou na área de Desenvolvimento Front-end e buscando a minha primeira oportunidade, e novas experiências com novas ferramentas e tecnologias.
 
    <h2>Conecte-se comigo!</h2>
    <a href="https://www.linkedin.com/in/brennoeduardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
