@@ -1,5 +1,5 @@
 ##
-<h1>Olá, meu nome é Brenno Eduardo!</h1>
+<h2>Olá, meu nome é Brenno Eduardo!</h2>
 
 
 - 🔭 Estou cursando Análise e Desenvolvimento de Sistemas.
