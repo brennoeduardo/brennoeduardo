@@ -4,9 +4,9 @@
 
 - 🔭 Estou cursando Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente sou estágiario na área de desenvolvimento de software.
-- 👨‍💻 Me sinto confiante em: HTML&CSS, SASS, JavaScript e Git.
-- 👨‍💻 Tenho conhecimentos de: Python e RobotFramework
-- 👨‍💻 Com um pouco de ajuda consigo trabalhar com: PHP
+- 🦾 Me sinto confiante em: HTML&CSS, SASS, JavaScript e Git.
+- 🧠 Tenho conhecimentos de: Python e RobotFramework
+- 🙏 Com um pouco de ajuda consigo trabalhar com: PHP
 
    <h2>Conecte-se comigo!</h2>
    <a href="https://www.linkedin.com/in/brennoeduardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
