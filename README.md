@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente sou estágiario na área de desenvolvimento
 - 🦾 Me sinto confiante em: HTML&CSS, SASS, JavaScript
-- 🧠 Tenho conhecimentos em: Python e RobotFramework
+- 🧠 Tenho conhecimentos em: Python com RobotFramework
 - 👨🏽‍💻 Estou estudando: Vue, Nuxt.JS e Node.JS
 
    <h2>Conecte-se comigo!</h2>
