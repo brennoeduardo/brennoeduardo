@@ -15,7 +15,7 @@
   />
   <img
     height="180em"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=brennoeduardo&layout=compact&hide_border=true&title_color=8000FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=brennoeduardo&layout=compact&hide=html,tex&hide_border=true&title_color=8000FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6"
   />
 </div>
 
