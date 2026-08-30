@@ -6,10 +6,21 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=brennoeduardo&color=8000FF" alt="Profile views" /></p>
 
-<!-- <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brennoeduardo&show_icons=true&count_private=true&hide_border=true&title_color=4E00BF&icon_color=4E00BF&text_color=c9d1d9&bg_color=0d1117" alt="Brenno Eduardo github stats" /> 
-  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennoeduardo&layout=compact&hide_border=true&title_color=4E00BF&text_color=c9d1d9&bg_color=0d1117" />
-</div> -->
+<div align="center">  
+  <img 
+    width="49%" 
+    height="195px" 
+    src="https://github-stats-extended.vercel.app/api?username=brennoeduardo&show_icons=true&count_private=true&hide_border=true&title_color=4E00BF&icon_color=4E00BF&text_color=c9d1d9&bg_color=0d1117" 
+    alt="Brenno Eduardo GitHub stats" 
+  /> 
+  
+  <img 
+    width="49%" 
+    height="195px" 
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=brennoeduardo&layout=compact&hide_border=true&title_color=4E00BF&text_color=c9d1d9&bg_color=0d1117" 
+    alt="Most Used Languages" 
+  />
+</div>
 
 ### 🛠️ Main skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)&nbsp;
