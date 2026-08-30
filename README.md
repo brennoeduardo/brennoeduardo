@@ -6,19 +6,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=brennoeduardo&color=8000FF" alt="Profile views" /></p>
 
-<div align="center">  
-  <img 
-    width="49%" 
-    height="195px" 
-    src="https://github-stats-extended.vercel.app/api?username=brennoeduardo&show_icons=true&count_private=true&hide_border=true&title_color=4E00BF&icon_color=4E00BF&text_color=c9d1d9&bg_color=0d1117" 
-    alt="Brenno Eduardo GitHub stats" 
-  /> 
-  
-  <img 
-    width="49%" 
-    height="195px" 
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=brennoeduardo&layout=compact&hide_border=true&title_color=4E00BF&text_color=c9d1d9&bg_color=0d1117" 
-    alt="Most Used Languages" 
+<div align="center">
+  <img
+    height="180em"
+    src="https://github-stats-extended.vercel.app/api?username=brennoeduardo&show_icons=true&hide_border=true&title_color=8000FF&icon_color=8000FF&text_color=c9d1d9&bg_color=0d1117"
+  />
+  <img
+    height="180em"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=brennoeduardo&layout=compact&hide_border=true&title_color=8000FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6"
   />
 </div>
 
