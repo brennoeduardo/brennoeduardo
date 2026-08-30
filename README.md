@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Brenno Eduardo 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=88969C\&size=28\&center=true\&vCenter=true\&width=800\&lines=Based+in+Curitiba%2C+Brazil+%F0%9F%87%A7%F0%9F%87%B7;Full+Stack+Developer;Always+learning%2C+always+building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=88969C\&size=28\&center=true\&vCenter=true\&width=800\&lines=Based+in+Curitiba%2C+Brazil+%F0%9F%87%A7%F0%9F%87%B7;Full+Stack+Developer)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=brennoeduardo&color=8000FF" alt="Profile views" />
