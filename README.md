@@ -4,10 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=88969C\&size=28\&center=true\&vCenter=true\&width=800\&lines=Based+in+Curitiba%2C+Brazil+%F0%9F%87%A7%F0%9F%87%B7;Full+Stack+Developer)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brennoeduardo&color=8000FF" alt="Profile views" />
-</p>
-
 <div align="center">
   <img
     height="180em"
@@ -38,6 +34,10 @@
 
 <p align="center">
   <em>Building small tools to solve real, everyday problems.</em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=brennoeduardo&color=8000FF" alt="Profile views" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
